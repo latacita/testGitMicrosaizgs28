@@ -1,11 +1,3 @@
-%%==================================================================%%
-%%                 Métodos de Desarrollo - Test de Git              %%
-%%==================================================================%%
-%% Alumno (Apellidos, Nombre):  Saiz Gómez Silvia                   %%
-%%==================================================================%%
-
- Paso   Acción                       Notas
-====== ============================ ================================
 {01}	git clone https://github.com/latacita/testGitMicrosaizgs28.git .
 {02} 	git add bitacora.txt
 {03}	git commit -m "Paso 03", git push -u origin master
@@ -20,3 +12,11 @@
 {12}    git checkout master
 {13}	git merge RamaA, se hace un fast-fordward
 {14} 	git merge RamaB, me ha dado conflicto solo con bitacora. 
+{16}	git branch RamaC
+{17}    git checkout RamaC
+{18}	edito el codigo postal en direccion.txt
+{19}	git branch RamaD, git push -u origin RamaD
+{20}	crear el fichero califiacion.txt
+{21}	git add calificacion.txt, git commit -m "Paso 20"
+{22}	git checkout RamaC
+{23}	tenía direccion.txt modificada. Hacemos git add direccion.txt, git add bitacora.txt, git commit -m "Paso 23"
