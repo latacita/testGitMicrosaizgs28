@@ -9,3 +9,7 @@
 {01}	git clone https://github.com/latacita/testGitMicrosaizgs28.git .
 {02} 	git add bitacora.txt
 {03}	git commit -m "Paso 03", git push -u origin master
+{04}	git branch RamaA
+{05}	git branch RamaB
+{06} 	git checkout RamaA
+{07}	He creado en local el fichero direccion.txt.  
