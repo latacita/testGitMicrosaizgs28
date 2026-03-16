@@ -15,3 +15,5 @@
 {07}	He creado en local el fichero direccion.txt. 
 {08} 	git add direccion.txt, git add bitacora.txt,git commit -m "Paso 08"
 {09}    git checkout RamaB
+{10}	Edito el fichero direccion.txt y pongo la provincia correcta.
+{11}    git add *, git commit -m "Paso 11" 
