@@ -1,6 +1,0 @@
-Dirección Facultad de Ciencias:
-calle: Avda. de Los Castros
-Numero: 48
-CP: 39005
-Ciudad: Santander 
-Provincia: Santander
