@@ -20,3 +20,10 @@
 {21}	git add calificacion.txt, git commit -m "Paso 20"
 {22}	git checkout RamaC
 {23}	tenía direccion.txt modificada. Hacemos git add direccion.txt, git add bitacora.txt, git commit -m "Paso 23"
+{24} 	git checkout master
+{25}	fast-fordward
+{26}	git merge RamaD
+{27}	git merge RamaC
+{28} 	git tag "Conseguido"
+{29}	eidtar bitácora
+{30} 	git add *. git comit -m "Paso 30", git push
