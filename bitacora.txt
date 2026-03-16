@@ -1,8 +1,11 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):  Saiz Gómez Silvia                   %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+{01}	git clone https://github.com/latacita/testGitMicrosaizgs28.git .
+{02} 	git add bitacora.txt
+{03}	git commit -m "Paso 03"
